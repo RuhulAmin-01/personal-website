@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  font-size: 40px;
+}
+.first-write{
+  padding-top: 10%;
+  padding-left: 10%;
+}
+p{
+  color: dimgray;
+  
+}
+.text-highlight{
+  font-size: 50px;
+  color: crimson;
+}
+.sec1{
+  width: 30%;
+  float: left;
+  margin-left: 5%;
+}
+.sec1 img{
+  width: 130%;
+}
+.part1{
+  background-image: url("images/header-bg.png");
+  background-size: cover;
+}
+section{
+  height: 500px;
+  padding-bottom: 250px;
+}
+.link-button{
+  text-decoration: none;
+  background-color: crimson;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+}
+h2{
+  font-size: 40px;
+}
+.part2{
+  background-image: url("images/biography-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.second-write{
+  padding-top: 10%;
+  padding-left: 10%;
+}
+.part3{
+  padding-top: 10%;
+  background-image: url("images/latest-work-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-center{
+  font-weight: 700;
+  text-align: center;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+  justify-content: center;
+}
+.portfolio{
+
+	width: 400px;
+  height: 300px;
+  padding: 10px;
+}
+#client{
+  text-align: center;
+  font-size: 25px;
+}
+#position{
+  text-align: center;
+  color: dimgray;
+
+}
+#client-msg{
+  text-align: center;
+  font-size: 18px;
+  width: 40%;
+  padding-left: 30%;
+}
+.part4{
+  background-image: url("images/footer-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.last-button{
+  background-color: crimson;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  padding: 25px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 5px 4px;
+  cursor: pointer;
+}
+#last-part{
+  padding-left: 33%;  
+}
+#mail{
+  font-size: 25px;
+  color: white;
+}
+footer{
+  text-align: center;
+  font-size: 12px;
+}
